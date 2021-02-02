@@ -1,0 +1,11 @@
+.header{
+    Width: 100%;
+    Height: 800px;
+    Background: linear-gradient(rgba(0,0,0,0.6)),(rgba(0,0,0,0.6)), url("https://static.toiimg.com/thumb/msid-71585451,width-1070,height-580,imgsize-199952,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg");
+    Background-repeat: no-repeat;
+    Background-size: cover;
+    Display: flex;
+    flex-direction:column;
+    Align-items: center;
+    Justify-content:center;
+}
